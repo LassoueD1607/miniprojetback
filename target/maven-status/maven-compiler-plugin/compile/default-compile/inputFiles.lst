@@ -1,0 +1,7 @@
+/home/devops/angular/SOA-DS/MiniProjectSOA/src/main/java/com/example/miniprojectsoa/StartConfiguration.java
+/home/devops/angular/SOA-DS/MiniProjectSOA/src/main/java/com/example/miniprojectsoa/services/ProductService.java
+/home/devops/angular/SOA-DS/MiniProjectSOA/src/main/java/com/example/miniprojectsoa/repositories/ProductRepository.java
+/home/devops/angular/SOA-DS/MiniProjectSOA/src/main/java/com/example/miniprojectsoa/models/Product.java
+/home/devops/angular/SOA-DS/MiniProjectSOA/src/main/java/com/example/miniprojectsoa/MiniProjectSoaApplication.java
+/home/devops/angular/SOA-DS/MiniProjectSOA/src/main/java/com/example/miniprojectsoa/controllers/ProductController.java
+/home/devops/angular/SOA-DS/MiniProjectSOA/src/main/java/com/example/miniprojectsoa/CorsConfig.java
